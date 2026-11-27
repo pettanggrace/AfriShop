@@ -118,3 +118,21 @@ h1 {
   color: #245438;
   font-size: 1rem;
 }
+.contact-section {
+  text-align: center;
+  padding: 40px 24px;
+  background-color: #f4f1ea;
+}
+
+.contact-section h2 {
+  color: #1f4d32;
+  margin-top: 0;
+}
+
+.site-footer {
+  background-color: #245438;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 20px;
+  font-size: 0.9rem;
+}
