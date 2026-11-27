@@ -36,3 +36,31 @@ h1 {
 .nav-links a:hover {
   text-decoration: underline;
 }
+.hero {
+  background-color: #e7decb;
+  text-align: center;
+  padding: 64px 24px;
+}
+
+.hero h1 {
+  color: #1f4d32;
+  font-size: 2.2rem;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.hero p {
+  color: #5a554c;
+  font-size: 1.05rem;
+  margin-bottom: 24px;
+}
+
+.btn-cta {
+  display: inline-block;
+  background-color: #245438;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 12px 22px;
+  border-radius: 6px;
+  font-weight: bold;
+}
