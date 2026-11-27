@@ -136,3 +136,21 @@ h1 {
   padding: 14px 20px;
   font-size: 0.9rem;
 }
+.products-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 24px;
+}
+
+@media (max-width: 600px) {
+  .topbar {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .product-card {
+    flex: 1 1 100%;
+    min-width: 0;
+  }
+}
